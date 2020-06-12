@@ -9,8 +9,8 @@
     </td>
     <td>
      <p>
-      - [Learning for Microstructural Characterization of Archeological Specimens from XRT](https://github.com/dani-lbnl/DXC2020/DXC2020dani.pdf) 
-      - [code](https://github.com/dani-lbnl/DXC2020/code/)
+      - Learning for Microstructural Characterization of Archeological Specimens from XRT [pdf](https://github.com/dani%e2%80%93lbnl/DXC2020/DXC2020dani.pdf) 
+      - [code](https://github.com/dani%e2%80%93lbnl/DXC2020/code/)
       </td>
  </tr>
 </table>

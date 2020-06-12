@@ -1,7 +1,7 @@
 # DXC2020
 
 -	[DXC conference](http://www.dxcicdd.com/): 69th Annual Denver X-ray Conference - Advances in X-ray Analysis
--	 invited talk to session [Machine Learning Techniques in X-ray Analysis]((http://www.dxcicdd.com/20/program.htm) ):
+-	 invited talk to session [Machine Learning Techniques in X-ray Analysis](http://www.dxcicdd.com/20/program.htm):
 
 <table border="0">
  <tr>

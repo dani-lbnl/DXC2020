@@ -9,7 +9,7 @@
     </td>
     <td>
      <p>
-      - Ushizima, Xu, McCormick, Monteiro, <i> Learning for Microstructural Characterization of Archeological Specimens from XRT </i> <a href="https://github.com/dani-lbnl/DXC2020/blob/master/DXC2020dani.pdf">[pdf]</a> 
+      - Ushizima, Xu, McCormick, Monteiro, <i> Machine Learning for Microstructural Characterization of Archeological Specimens from XRT </i> <a href="https://github.com/dani-lbnl/DXC2020/blob/master/DXC2020dani.pdf">[pdf]</a> 
       - <a href="https://github.com/dani-lbnl/DXC2020/blob/master/">[code]</a>
       </td>
  </tr>

@@ -1,7 +1,7 @@
 # DXC2020
 
--	[DXC conference](http://www.dxcicdd.com/)
--	 Advances in X-ray Analysis
+-	[DXC conference](http://www.dxcicdd.com/): 69th Annual Denver X-ray Conference - Advances in X-ray Analysis
+-	 invited talk:
 
 <table border="0">
  <tr>

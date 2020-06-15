@@ -1,9 +1,7 @@
 3D Computer Vision
 ==================
 
-by Dani Ushizima and Matt McCormick
-
--	Goal:
+Codes by Dani Ushizima and Matt McCormick
 
 <table border="0">
  <tr>

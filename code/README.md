@@ -1,18 +1,20 @@
-DXC2020
-=======
+3D Computer Vision
+==================
 
--	[DXC conference](http://www.dxcicdd.com/): 69th Annual Denver X-ray Conference - Advances in X-ray Analysis;
--	invited talk to session [Machine Learning Techniques in X-ray Analysis](http://www.dxcicdd.com/20/program.htm);
+by Dani Ushizima and Matt McCormick
+
+-	Goal:
 
 <table border="0">
  <tr>
-    <td><img src="http://www.dxcicdd.com/20/images/virtualheader.png" width="400">
+    <td><img src="https://github.com/dani-lbnl/DXC2020/blob/master/images/archaelogical_concrete.png" width="400">
     </td>
     <td>
-     <p>
-      - Ushizima, Xu, McCormick, Parkinson, Monteiro, <i> Microstructural Characterization of Archeological Specimens from XRT </i> <a href="https://github.com/dani-lbnl/DXC2020/blob/master/DXC2020dani.pdf">[pdf]</a> <p>
-      - Baia Archeological Specimen <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1">[data]</a> <p>
-      - Explore Micro-ct Samples <a href="https://github.com/dani-lbnl/DXC2020/tree/master/code">[code]</a>
-      </td>
+      <p> 01_readVolume.ipynb
+      <p> 02_roi_mask.ipynb
+      <p> 03_phasesML.ipynb
+      <p> 04_metricsML.ipynb
+
+    </td>
  </tr>
 </table>

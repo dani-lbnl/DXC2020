@@ -1,0 +1,7 @@
+scikit-learn
+scikit-image
+itk
+itkwidgets>=0.29.0
+matplotlib
+numpy
+scipy

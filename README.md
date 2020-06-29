@@ -10,7 +10,7 @@ DXC2020
     </td>
     <td>
      <p>
-      - Ushizima, Xu, McCormick, Parkinson, Monteiro, <i> Microstructural Characterization of Archeological Specimens from XRT </i> <a href="https://github.com/dani-lbnl/DXC2020/blob/master/DXC2020dani.pdf">[pdf]</a> <p>
+      - Ushizima, McCormick, Xu, Parkinson, Monteiro, <i> Microstructural Characterization of Archeological Specimens from XRT </i> <a href="https://github.com/dani-lbnl/DXC2020/blob/master/DXC2020dani.pdf">[pdf]</a> <p>
       - Baia Archeological Specimen <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1">[data]</a> <p>
       - Explore Micro-ct Samples <a href="https://github.com/dani-lbnl/DXC2020/tree/master/code">[code]</a>
       </td>

@@ -6,7 +6,8 @@ DXC2020
 
 <table border="0">
  <tr>
-    <td><img src="http://www.dxcicdd.com/20/images/virtualheader.png" width="400">
+    <td><img src="http://www.dxcicdd.com/20/images/virtualheader.png" width="400"> 
+     <p> https://bit.ly/dxc2020
     </td>
     <td>
      <p>

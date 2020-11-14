@@ -17,3 +17,8 @@ DXC2020
       </td>
  </tr>
 </table>
+
+_ Related publications:
+ - Xu, Tremsin, Li, Ushizima, Davy, Bouterf, Su, Marroccoli, Mauro, Osanna, Telesca, Monteiro, "Microstructure and Water Absorption of Ancient Concrete from Pompeii: An Integrated Synchrotron Microtomography and Neutron Radiography Characterization", Cement and Concrete Research [pdf].
+
+ - Ushizima, Xu, Monteiro, "Materials Data Science for Microstructural Characterization of Archaeological Concrete", MRS Advancements - special issue: Materials Data Science, 2020. [data] [code]
